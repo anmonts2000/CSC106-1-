@@ -1,1 +1,1 @@
-# CSC106-1-
+CSC106 First System(Only Used Javascript LocalStorage)
